@@ -1,0 +1,94 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background: #F3F4F6;
+}
+#navbar {
+  background: #fff !important;
+}
+
+.ui.left.labeled.input.icon {
+  width: 700px;
+  background: #EEF2F3;
+}
+
+#label-search{
+  background: #EEF2F3;
+  border-right: 1px solid rgb(220, 226, 228);
+}
+
+#form-search{
+  background: #EEF2F3;
+  border: none;
+}
+
+.ui.left.labeled.input.icon {
+  border-radius: 5px;
+}
+
+#menu-sidebar-pertama{
+  border: none
+}
+
+div#content-profil {
+  margin-top: 50px;
+}
+
+.widget-dua, .widget-tiga{
+  margin-top: 25px;
+}
+
+.ui.box{
+  box-shadow: 0 1px 3px 0 rgba(44, 47, 49, 0.089);
+  background: #fff;
+  padding: 0;
+  margin-bottom: 20px;
+}
+
+.best-story{
+  padding: 20px;
+}
+
+.pd{
+  padding: 10px;
+}
+
+.no-border{
+  border: none !important
+}
+
+.b-radius{
+  border-radius: 5px;
+}
+
+.ui.button.teal.b-radius {
+  border-radius: 5px !important;
+}
+
+.foto-profil {
+  margin-top: -35px;
+  margin-bottom: 20px;
+}
+
+.text-center {
+  text-align: center !important;
+}
+
+.tombol-add{
+  padding: 20px;
+}
+
+h4.title {
+  margin-bottom: 10px;
+}
+
+img.ui.fluid.image {
+  height: 150px;
+}
+
+.feed-story{
+  margin-top: 30px;
+}
